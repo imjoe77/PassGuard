@@ -1,16 +1,69 @@
-# React + Vite
+# 🔐 CypherVault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight password manager built while learning **MongoDB Atlas integration** and **CRUD (Create, Read, Update, Delete)** operations using JavaScript.
 
-Currently, two official plugins are available:
+This project demonstrates how to build a simple password management application that allows users to store, update, and manage website credentials through a clean and responsive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> ⚠️ **Note:** This project was created as a learning exercise to understand MongoDB Atlas connectivity and CRUD operations. It is not intended for storing real or sensitive passwords.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 https://imjoe77.github.io/PassGuard/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Add new website credentials
+- View saved passwords
+- Edit existing password entries
+- Delete stored credentials
+- Show/Hide password functionality
+- Responsive and clean user interface
+- MongoDB Atlas integration for data storage
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- MongoDB Atlas
+
+---
+
+## 📚 What I Learned
+
+While building this project, I gained practical experience with:
+
+- Connecting applications to MongoDB Atlas
+- Performing CRUD operations
+- Managing application state
+- Designing responsive user interfaces
+- Organizing frontend project structure
+
+---
+
+---
+
+## 📂 Repository
+
+GitHub Repository:
+https://github.com/imjoe77/PassGuard
+
+---
+
+## 👨‍💻 Author
+
+**Nathaniel Bandi**
+
+GitHub: https://github.com/imjoe77
+
+---
+
+## 📄 License
+
+This project is available under the MIT License.

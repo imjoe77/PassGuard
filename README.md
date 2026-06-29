@@ -45,14 +45,6 @@ While building this project, I gained practical experience with:
 - Designing responsive user interfaces
 - Organizing frontend project structure
 
----
-
----
-
-## 📂 Repository
-
-GitHub Repository:
-https://github.com/imjoe77/PassGuard
 
 ---
 

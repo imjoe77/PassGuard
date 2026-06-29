@@ -1,10 +1,10 @@
-# 🔐 CypherVault
+# 🔐 PassGuard
 
-A lightweight password manager built while learning **MongoDB Atlas integration** and **CRUD (Create, Read, Update, Delete)** operations using JavaScript.
+A lightweight password manager built while learning **MongoDB Atlas** integration and implementing **CRUD (Create, Read, Update, Delete)** operations using JavaScript.
 
-This project demonstrates how to build a simple password management application that allows users to store, update, and manage website credentials through a clean and responsive interface.
+PassGuard allows users to manage website credentials through a clean and responsive interface. The project focuses on demonstrating database connectivity, CRUD functionality, and frontend development practices while exploring MongoDB Atlas.
 
-> ⚠️ **Note:** This project was created as a learning exercise to understand MongoDB Atlas connectivity and CRUD operations. It is not intended for storing real or sensitive passwords.
+> **Note:** PassGuard was developed as a learning project to understand MongoDB Atlas integration and CRUD operations. It serves as a demonstration of these concepts and is maintained as part of my developer portfolio.
 
 ---
 
@@ -16,35 +16,46 @@ This project demonstrates how to build a simple password management application 
 
 ## ✨ Features
 
-- Add new website credentials
-- View saved passwords
-- Edit existing password entries
-- Delete stored credentials
-- Show/Hide password functionality
-- Responsive and clean user interface
-- MongoDB Atlas integration for data storage
+* ✅ Add website credentials
+* ✅ View saved passwords
+* ✅ Edit existing entries
+* ✅ Delete stored credentials
+* ✅ Show/Hide password visibility
+* ✅ Responsive user interface
+* ✅ MongoDB Atlas integration
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- MongoDB Atlas
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* MongoDB Atlas
 
 ---
 
 ## 📚 What I Learned
 
-While building this project, I gained practical experience with:
+This project helped me gain practical experience with:
 
-- Connecting applications to MongoDB Atlas
-- Performing CRUD operations
-- Managing application state
-- Designing responsive user interfaces
-- Organizing frontend project structure
+* Connecting web applications to MongoDB Atlas
+* Implementing CRUD operations
+* Managing application state
+* Building responsive user interfaces
+* Structuring frontend projects for maintainability
 
+---
+
+## 🚀 Future Improvements
+
+* User Authentication
+* Password Encryption
+* Search and Filter
+* Password Generator
+* User-specific password vaults
+* Backend API integration
+* Secure session management
 
 ---
 
@@ -58,4 +69,4 @@ GitHub: https://github.com/imjoe77
 
 ## 📄 License
 
-This project is available under the MIT License.
+This project is licensed under the MIT License.
